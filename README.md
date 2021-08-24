@@ -2,6 +2,10 @@
 
 Terraform projects
 
-Create  two instances in which 1 instances should be scripted through “data source” and attach security group on both the instances.
-Write Terraform script for the Static Web Hosting with S3
+1. Create  two instances 
+2. 1 instances should be scripted through “Normal”. 
+3. And  other should be “data source”
+4. attach security group on both the instances.
+5.Write Terraform script for the Static Web Hosting with S3
+
 
